@@ -1,0 +1,21 @@
+h3{
+    margin-top: 0px;
+    font-size: 1em;
+    text-align: center;
+}
+h1{
+    margin-bottom: 0px;
+    font-size: 2em;
+    text-align: center;
+}
+span{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    padding: 5px;
+}
+.convert{
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
